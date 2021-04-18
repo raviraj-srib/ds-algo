@@ -1,4 +1,4 @@
-package pratice.graph;
+package practice.graph;
 
 import java.util.Set;
 
